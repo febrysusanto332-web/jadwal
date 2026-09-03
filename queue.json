@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "account": "akun_1",
+    "account_username": "@elair_na",
+    "scheduled_time": "2026-09-04 07:00",
+    "text": "Morning routine anti ribet: Cleansing foam lembut + Centella Soothing Cream. Bikin makeup nempel seharian tanpa minyakan. Mumpung lagi Super Brand Day di Shopee Mall resmi, cek di sini ya: https://s.shopee.co.id/5AsCXPD2fA",
+    "status": "pending",
+    "result": null
+  },
+  {
+    "id": 2,
+    "account": "akun_2",
+    "account_username": "@gel_jela",
+    "scheduled_time": "2026-09-04 07:15",
+    "text": "🚨 WOI SKIN1004 LAGI SUPER BRAND DAY DI SHOPEE! Beli 1 Gratis 1 + Voucher s.d 300rb + Ekstra Diskon 50% pake SPayLater! Jangan bengong buruan amankan: https://s.shopee.co.id/5AsCXPD2fA",
+    "status": "pending",
+    "result": null
+  },
+  {
+    "id": 3,
+    "account": "akun_1",
+    "account_username": "@elair_na",
+    "scheduled_time": "2026-09-04 12:00",
+    "text": "Kalau kulit lagi ngamuk, kemerahan, atau bruntusan parah, penyelamat pertama gue selalu balik ke Madagascar Centella Skin1004. Calming-nya juara banget. Kebetulan lagi ada Super Brand Day Beli 1 Gratis 1 di Shopee Mall: https://s.shopee.co.id/5AsCXPD2fA",
+    "status": "pending",
+    "result": null
+  },
+  {
+    "id": 4,
+    "account": "akun_2",
+    "account_username": "@gel_jela",
+    "scheduled_time": "2026-09-04 12:15",
+    "text": "Trik checkout Skin1004 biar dapet diskon maksimal:\n1. Klaim voucher s.d 300rb\n2. Ambil produk Beli 1 Gratis 1\n3. Bayar pake SPayLater biar dapet ekstra diskon 50%!\nLink promonya: https://s.shopee.co.id/5AsCXPD2fA",
+    "status": "pending",
+    "result": null
+  },
+  {
+    "id": 5,
+    "account": "akun_1",
+    "account_username": "@elair_na",
+    "scheduled_time": "2026-09-04 19:30",
+    "text": "Botol ke-4 dan masih secinta itu sama Centella Ampoule Skin1004. Buat kemerahan bekas jerawat cepet pudar. Pas banget lagi promo Beli 1 Gratis 1 di Shopee Mall: https://s.shopee.co.id/5AsCXPD2fA",
+    "status": "pending",
+    "result": null
+  },
+  {
+    "id": 6,
+    "account": "akun_2",
+    "account_username": "@gel_jela",
+    "scheduled_time": "2026-09-04 19:45",
+    "text": "Kalkulasi hemat hari ini: Beli 1 dapet 2 produk Skin1004, dipotong voucher 300rb + diskon SPayLater 50%. Jatuhnya murah kebangetan woy! Cek promonya sekarang: https://s.shopee.co.id/5AsCXPD2fA",
+    "status": "pending",
+    "result": null
+  }
+]
