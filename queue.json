@@ -25,8 +25,9 @@
     "account_username": "@elair_na",
     "scheduled_time": "2026-09-04 12:00",
     "text": "Kalau kulit lagi ngamuk, kemerahan, atau bruntusan parah, penyelamat pertama gue selalu balik ke Madagascar Centella Skin1004. Calming-nya juara banget. Kebetulan lagi ada Super Brand Day Beli 1 Gratis 1 di Shopee Mall: https://s.shopee.co.id/5AsCXPD2fA",
-    "status": "pending",
-    "result": null
+    "status": "success",
+    "result": "[Akun 1] Post published successfully. Post ID: 18201638284335335",
+    "posted_at": "2026-09-04T05:55:44.219Z"
   },
   {
     "id": 4,
@@ -34,7 +35,8 @@
     "account_username": "@gel_jela",
     "scheduled_time": "2026-09-04 12:15",
     "text": "Trik checkout Skin1004 biar dapet diskon maksimal:\n1. Klaim voucher s.d 300rb\n2. Ambil produk Beli 1 Gratis 1\n3. Bayar pake SPayLater biar dapet ekstra diskon 50%!\nLink promonya: https://s.shopee.co.id/5AsCXPD2fA",
-    "status": "pending",
-    "result": null
+    "status": "success",
+    "result": "[Akun 2] Post published successfully. Post ID: 18091382006147788",
+    "posted_at": "2026-09-04T05:55:51.670Z"
   }
 ]
